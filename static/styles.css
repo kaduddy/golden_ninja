@@ -1,0 +1,38 @@
+#farm, #cave, #house, #casino {
+	width: 195px;
+	height: 200px;
+	display: inline-block;
+	border: 1px solid black;
+	vertical-align: top;
+}
+
+#farm {
+	background-color: red;
+}
+#cave {
+	background-color: grey;
+}
+#house {
+	background-color: khaki;
+}
+#casino {
+	background-color: green;
+}
+
+#activities {
+	border: 1px solid black;
+	width: 800px;
+	height: 200px;
+	overflow: scroll;
+}
+
+#special_p {
+	margin-top: 30px;
+}
+
+input {
+	margin-left: 50px;
+}
+h1, h2{
+	text-align: center;
+}
